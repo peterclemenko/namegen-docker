@@ -1,3 +1,16 @@
+# namegen Docker
+
+Build and run namegen script via docker.
+
+```
+ docker build -t namegen .
+
+ docker run --rm namegen
+```
+
+
+
+
 ==============================
 Namegen: Random name generator
 ==============================
