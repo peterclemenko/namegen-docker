@@ -1,4 +1,4 @@
-FROM python:3.6-slim
+FROM python:3.14-slim
 #Build args
 ARG VCS_REF
 ARG BUILD_DATE
